@@ -1,11 +1,11 @@
-# ParkWhiz
-An Application to Manage a parking place and maintain records in a paperless way.
+# College_Parking_System
+An Application to Manage and maintain records in a paperless way and use the data to open the gate and perform other tasks.
 
 
 This Application helps manage the parking place in a Paperless way. 
-Simply enter the base fare and click or upload the picture of numberplate and checkin.
-When checking out click or upload the picture of numberplate. 
-The popup will show the deating of Checkin time, Checkout time, Base Fare, Total Payable Fare, Total Duration that is charged.
+Simply enter the Name Of the owner and click or upload the picture of numberplate and Register.
+When Searching click or upload the picture of numberplate. 
+The popup will show the deating of Checkin time, Checkout time, Owner Name, Purpose, Total Duration.
 The numberplate is detected using contour detection and EasyOCR.
 
 
@@ -19,8 +19,9 @@ The numberplate is detected using contour detection and EasyOCR.
 
 
 ## Preview
-![Preview](Assets/ParkWiz.gif)
+![Preview](Assets/gui.png)
 
 ## Please open an issue if
-* you have any suggestion to improve this project
-* you noticed any problem or error
+* Aryan Singh
+* xoplaysvideogames@gmail.com
+
